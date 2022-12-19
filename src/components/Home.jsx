@@ -18,7 +18,7 @@ I'am Ravi<br />
 </h3>
 <h3 style={{"fontSize":"40px","color":"black"}}>MERN Stack Developer</h3>
         
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My name is Ravi Roshan; I am a Full-Stack%20Web%20Developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=620&height=45 & color=cyan &vCenter=true&size=30&pause=1000"/>
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My name is Ravi Roshan; I am a Full-Stack%20Web%20Developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=620&height=45 & color=F1FCFE &vCenter=true&size=30&pause=1000"/>
         
 
           <div>

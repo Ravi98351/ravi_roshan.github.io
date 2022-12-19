@@ -53,7 +53,7 @@ const NavBar = () => {
 
         <li>
         <a
-              href="https://www.canva.com/design/DAFOqW-pbuY/2sxuenDhYXy25gyIATsFZQ/view?utm_content=DAFOqW-pbuY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"  //add your resume here
+              href="https://drive.google.com/file/d/1QHYDpSBAnO6vOTgD9n6KE95oDfTwLxoN/view"  //add your resume here
               className="px-4 cursor-pointer capitalize font-medium  hover:scale-105 duration-200"
               download={true}
               target="_blank"
