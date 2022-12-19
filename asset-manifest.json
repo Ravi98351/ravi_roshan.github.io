@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.81e19fd4.css",
+    "main.js": "./static/js/main.00b56253.js",
+    "static/media/Profile.jpg": "./static/media/Profile.b5ba8064a42691ff7393.jpg",
+    "static/media/travelgo.png": "./static/media/travelgo.72d985ebb1653c732c06.png",
+    "static/media/skinstore.png": "./static/media/skinstore.de549a8198054322f333.png",
+    "static/media/nordstrom.png": "./static/media/nordstrom.62e7fa963027d1d68814.png",
+    "static/media/chakraUI.png": "./static/media/chakraUI.e4cb472ccaabf22affba.png",
+    "static/media/tmetric.png": "./static/media/tmetric.872c048bac72cafb0f78.png",
+    "static/media/react.png": "./static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/nodejs.png": "./static/media/nodejs.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "./static/media/github.3b9e32903aa89111875d.png",
+    "static/media/vscode.png": "./static/media/vscode.f43fb4fb465bfb9aede2.png",
+    "static/media/html.png": "./static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "./static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/postman.png": "./static/media/postman.3fd4ac4e5c81365ab878.png",
+    "static/media/javascript.png": "./static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "./index.html",
+    "main.81e19fd4.css.map": "./static/css/main.81e19fd4.css.map",
+    "main.00b56253.js.map": "./static/js/main.00b56253.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81e19fd4.css",
+    "static/js/main.00b56253.js"
+  ]
+}
