@@ -51,7 +51,11 @@ const Skills = () => {
     {
       id: 7,
       src: postman,
+<<<<<<< HEAD
       title: "Mongo DB",
+=======
+      title: "Postman",
+>>>>>>> d1ebce81f3a0fccafb47edd4e50e3a0a5d5d441d
       style: "shadow-pink-400",
     },
     {
