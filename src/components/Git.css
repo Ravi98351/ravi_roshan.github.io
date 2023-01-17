@@ -1,0 +1,70 @@
+
+
+.education{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 50px; */
+  }
+  
+  .calendar{
+    width: 100%;
+    border: 3px teal solid ;
+    padding:55px;
+    border-radius: 10px;
+    
+    justify-content: center; 
+  }
+  
+  .stats{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 55px;
+    
+
+  
+  }
+
+ 
+  
+  .stats>img{
+    max-width: 100%;
+    height: auto;
+    
+  }
+  .education>h1{
+    text-align: center;
+    font-size: 34px;
+  
+    color:#ede6e6;
+    margin-top:10px;
+    padding-bottom: 20px;
+    text-decoration: underline;
+   
+  }
+  .cal-con{
+    height: 250px;
+    width:90%;
+    margin: auto;
+    justify-items: center;
+    justify-content: center;
+   
+  }
+
+  @media screen and (max-width: 450px){
+.box{
+  display: grid;
+  border:"2px solid red"
+  
+}
+  }
+
+  @media screen and (min-width: 480px) {
+    
+    .education>h1{
+     margin-top: 250px;
+     font-size:24px;
+    }
+    
+  }
