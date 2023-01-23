@@ -1,0 +1,9 @@
+.Navbar{
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.flex{
+    gap:10px
+}

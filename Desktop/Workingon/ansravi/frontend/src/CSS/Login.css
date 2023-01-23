@@ -1,0 +1,9 @@
+.loginform{
+    border: 3px solid;
+    width:30%;
+    margin: auto;
+    padding: 20px;
+}
+submit{
+    color: green;
+}
